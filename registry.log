@@ -1,0 +1,58 @@
+2016-09-13 15:08:21,143 logrotate_test.py[line:56] INFO {"/var/log/shanmao/shanmao.log":{"source":"/var/log/shanmao/shanmao.log","offset":16098,"FileStateOS":{"inode":15356859,"device":2055}}}
+
+2016-09-13 15:08:21,191 logrotate_test.py[line:56] INFO {"/var/log/shanmao/shanmao.log":{"source":"/var/log/shanmao/shanmao.log","offset":16098,"FileStateOS":{"inode":15356859,"device":2055}}}
+
+2016-09-13 15:08:23,194 logrotate_test.py[line:56] INFO {"/var/log/shanmao/shanmao.log":{"source":"/var/log/shanmao/shanmao.log","offset":21208,"FileStateOS":{"inode":15356859,"device":2055}}}
+
+2016-09-13 15:08:53,340 logrotate_test.py[line:56] INFO {"/var/log/shanmao/shanmao.log":{"source":"/var/log/shanmao/shanmao.log","offset":41502,"FileStateOS":{"inode":15356859,"device":2055}}}
+
+2016-09-13 15:08:53,427 logrotate_test.py[line:56] INFO {"/var/log/shanmao/shanmao.log":{"source":"/var/log/shanmao/shanmao.log","offset":41502,"FileStateOS":{"inode":15356859,"device":2055}}}
+
+2016-09-13 15:08:56,431 logrotate_test.py[line:56] INFO {"/var/log/shanmao/shanmao.log":{"source":"/var/log/shanmao/shanmao.log","offset":0,"FileStateOS":{"inode":15357100,"device":2055}}}
+
+2016-09-13 15:09:26,600 logrotate_test.py[line:56] INFO {"/var/log/shanmao/shanmao.log":{"source":"/var/log/shanmao/shanmao.log","offset":61066,"FileStateOS":{"inode":15356859,"device":2055}}}
+
+2016-09-13 15:09:26,694 logrotate_test.py[line:56] INFO {"/var/log/shanmao/shanmao.log":{"source":"/var/log/shanmao/shanmao.log","offset":61066,"FileStateOS":{"inode":15356859,"device":2055}}}
+
+2016-09-13 15:09:31,699 logrotate_test.py[line:56] INFO {"/var/log/shanmao/shanmao.log":{"source":"/var/log/shanmao/shanmao.log","offset":65592,"FileStateOS":{"inode":15356859,"device":2055}}}
+
+2016-09-13 15:10:01,880 logrotate_test.py[line:56] INFO {"/var/log/shanmao/shanmao.log":{"source":"/var/log/shanmao/shanmao.log","offset":85177,"FileStateOS":{"inode":15356859,"device":2055}}}
+
+2016-09-13 15:10:02,007 logrotate_test.py[line:56] INFO {"/var/log/shanmao/shanmao.log":{"source":"/var/log/shanmao/shanmao.log","offset":85177,"FileStateOS":{"inode":15356859,"device":2055}}}
+
+2016-09-13 15:10:09,013 logrotate_test.py[line:56] INFO {"/var/log/shanmao/shanmao.log":{"source":"/var/log/shanmao/shanmao.log","offset":87693,"FileStateOS":{"inode":15356859,"device":2055}}}
+
+2016-09-13 15:10:39,205 logrotate_test.py[line:56] INFO {"/var/log/shanmao/shanmao.log":{"source":"/var/log/shanmao/shanmao.log","offset":107155,"FileStateOS":{"inode":15356859,"device":2055}}}
+
+2016-09-13 15:10:39,277 logrotate_test.py[line:56] INFO {"/var/log/shanmao/shanmao.log":{"source":"/var/log/shanmao/shanmao.log","offset":107155,"FileStateOS":{"inode":15356859,"device":2055}}}
+
+2016-09-13 15:10:50,287 logrotate_test.py[line:56] INFO {"/var/log/shanmao/shanmao.log":{"source":"/var/log/shanmao/shanmao.log","offset":0,"FileStateOS":{"inode":15357128,"device":2055}}}
+
+2016-09-13 15:11:20,506 logrotate_test.py[line:56] INFO {"/var/log/shanmao/shanmao.log":{"source":"/var/log/shanmao/shanmao.log","offset":126913,"FileStateOS":{"inode":15356859,"device":2055}}}
+
+2016-09-13 15:11:20,571 logrotate_test.py[line:56] INFO {"/var/log/shanmao/shanmao.log":{"source":"/var/log/shanmao/shanmao.log","offset":126913,"FileStateOS":{"inode":15356859,"device":2055}}}
+
+2016-09-13 15:11:33,580 logrotate_test.py[line:56] INFO {"/var/log/shanmao/shanmao.log":{"source":"/var/log/shanmao/shanmao.log","offset":88401,"FileStateOS":{"inode":15357100,"device":2055}}}
+
+2016-09-13 15:12:03,797 logrotate_test.py[line:56] INFO {"/var/log/shanmao/shanmao.log":{"source":"/var/log/shanmao/shanmao.log","offset":150445,"FileStateOS":{"inode":15356859,"device":2055}}}
+
+2016-09-13 15:12:03,879 logrotate_test.py[line:56] INFO {"/var/log/shanmao/shanmao.log":{"source":"/var/log/shanmao/shanmao.log","offset":150445,"FileStateOS":{"inode":15356859,"device":2055}}}
+
+2016-09-13 15:12:20,883 logrotate_test.py[line:56] INFO {"/var/log/shanmao/shanmao.log":{"source":"/var/log/shanmao/shanmao.log","offset":154293,"FileStateOS":{"inode":15356859,"device":2055}}}
+
+2016-09-13 15:12:51,123 logrotate_test.py[line:56] INFO {"/var/log/shanmao/shanmao.log":{"source":"/var/log/shanmao/shanmao.log","offset":174643,"FileStateOS":{"inode":15356859,"device":2055}}}
+
+2016-09-13 15:12:51,256 logrotate_test.py[line:56] INFO {"/var/log/shanmao/shanmao.log":{"source":"/var/log/shanmao/shanmao.log","offset":174643,"FileStateOS":{"inode":15356859,"device":2055}}}
+
+2016-09-13 15:13:14,270 logrotate_test.py[line:56] INFO {"/var/log/shanmao/shanmao.log":{"source":"/var/log/shanmao/shanmao.log","offset":0,"FileStateOS":{"inode":15357762,"device":2055}}}
+
+2016-09-13 15:13:44,527 logrotate_test.py[line:56] INFO {"/var/log/shanmao/shanmao.log":{"source":"/var/log/shanmao/shanmao.log","offset":195807,"FileStateOS":{"inode":15356859,"device":2055}}}
+
+2016-09-13 15:13:44,610 logrotate_test.py[line:56] INFO {"/var/log/shanmao/shanmao.log":{"source":"/var/log/shanmao/shanmao.log","offset":195807,"FileStateOS":{"inode":15356859,"device":2055}}}
+
+2016-09-13 15:14:11,635 logrotate_test.py[line:56] INFO {"/var/log/shanmao/shanmao.log":{"source":"/var/log/shanmao/shanmao.log","offset":111000,"FileStateOS":{"inode":15357121,"device":2055}}}
+
+2016-09-13 15:14:41,884 logrotate_test.py[line:56] INFO {"/var/log/shanmao/shanmao.log":{"source":"/var/log/shanmao/shanmao.log","offset":218525,"FileStateOS":{"inode":15356859,"device":2055}}}
+
+2016-09-13 15:14:41,974 logrotate_test.py[line:56] INFO {"/var/log/shanmao/shanmao.log":{"source":"/var/log/shanmao/shanmao.log","offset":218525,"FileStateOS":{"inode":15356859,"device":2055}}}
+
